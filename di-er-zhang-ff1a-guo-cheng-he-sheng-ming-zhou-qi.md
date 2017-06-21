@@ -10,7 +10,7 @@
 
 **生命期\(life cycle\)的定义：**
 
-> **When the process involves the building of some PORDUCT.**
+> **When the process involves the building of some PORDUCT.\(**We sometime refer to the process as a Life Cycle.\)
 
 
 
