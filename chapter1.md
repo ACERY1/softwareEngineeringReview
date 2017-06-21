@@ -30,19 +30,19 @@ Software = Instruction + Data Structure + Document(基本定义)
 
 **软件质量的McCall 模型**![](https://git.oschina.net/vueman/md_pic/raw/master/softwareEngineer/mccall.png)
 
-> **raceability**可追溯性
+> **raceability **可追溯性
 >
-> **Completeness**完整性
+> **Completeness **完整性
 >
-> **Correctness**正确性
+> **Correctness **正确性
 >
-> **Consistency**一致性
+> **Consistency **一致性
 >
-> **Reusability**可复用性
+> **Reusability **可复用性
 >
-> **Interoperability**相互操作性
+> **Interoperability **相互操作性
 >
-> **Data commonality**数据的共性
+> **Data commonality **数据的共性
 
 
 
