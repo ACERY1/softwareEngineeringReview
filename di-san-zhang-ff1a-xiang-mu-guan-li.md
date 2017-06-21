@@ -22,11 +22,9 @@
 
 #### **关键路径的定义和求解方法：**
 
-* **定义**：[关键路径](http://baike.baidu.com/item/%E5%85%B3%E9%94%AE%E8%B7%AF%E5%BE%84)法\(Critical Path Method, CPM\)是一种基于数学计算的项目[计划管理](http://baike.baidu.com/item/%E8%AE%A1%E5%88%92%E7%AE%A1%E7%90%86)方法，是[网络图](http://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E5%9B%BE)计划方法的一种，属于肯定型的网络图。
+* **定义**：[关键路径](http://baike.baidu.com/item/关键路径)法\(Critical Path Method, CPM\)是一种基于数学计算的项目[计划管理](http://baike.baidu.com/item/计划管理)方法，是[网络图](http://baike.baidu.com/item/网络图)计划方法的一种，属于肯定型的网络图。
 
 * 作用：Minimum Amount of Time it will be take to complete the Project\(最小化时间来完成项目\).
-
-
 
 **求解方法：**
 
