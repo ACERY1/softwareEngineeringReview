@@ -12,8 +12,6 @@
 
 > **When the process involves the building of some PORDUCT.\(**We sometime refer to the process as a Life Cycle.\)
 
-
-
 **四种（瀑布、V、原型、螺旋）模型的异同点**
 
 1. **瀑布模型\(Waterfall Model\)**
@@ -38,7 +36,7 @@
 
 特点：
 
-* A variation of the waterfall model	（瀑布模型的一种变体）
+* A variation of the waterfall model    （瀑布模型的一种变体）
 * Uses unit testing to verify procedural design\(使用单元测试来验证程序的设计\)
 * Uses integration testing to verify architectural \(system\) design（使用集成测试验证架构\(系统\)设计\)
 
@@ -48,7 +46,8 @@
 
 特点：
 
-* Allows repeated investigation of the requirements   or design\(支持可变的需求和设计，灵活性更强\)
+* Allows repeated investigation of the requirements
+   or design\(支持可变的需求和设计，灵活性更强\)
 * Reduces risk and uncertainty in the development\(在开发中降低风险和不确定性\)
 
 **4.螺旋模型\(spiral model\)**
@@ -56,6 +55,7 @@
 ![](/assets/sp.png)特点：
 
 * combines development activities with risk management to minimize the control risks.（结合开发进程和风险管理将风险控制在最小\)
-* 
+* The model is presented as a spiral in which each iteration is represented by a circuit around four major （一个螺旋的一次迭代主要由四步组成,如图\)
+
 
 
