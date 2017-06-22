@@ -40,9 +40,9 @@
 |  | 配置测试 | 多个用户 |
 |  | 兼容性测试 | 与大型数据库进行通信 |
 |  | 回归测试 | 替代已存在的系统 |
-|  | 安全性测试 | 安全性要求 |
-|  | 计时测试 | 执行函数的用户响应时间 |
-|  | 环境测试 | Installation Site |
+| Security Test | 安全性测试 | 安全性要求 |
+| Timing Test | 计时测试 | 执行函数的用户响应时间 |
+| Environment Test | 环境测试 | Installation Site |
 | Quality Test | 质量测试 | Reliability, Maintainability, Availability |
 | Recovery Test | 恢复测试 | 错误或数据丢失的反应 |
 | Maintenance Test | 维护测试 | 诊断工具 |
