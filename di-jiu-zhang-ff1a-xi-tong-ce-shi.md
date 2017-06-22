@@ -68,7 +68,7 @@
 
 度量方法：
 
-** R = MTTF/\(1+MTTF\)``**
+** R = MTTF/\(1+MTTF\)**
 
 ---
 
@@ -80,7 +80,7 @@
 
 度量方法：
 
-** A = MTBF/\(1+MTBF\)**
+** A = MTBF/\(1+MTBF\)**
 
 ---
 
@@ -92,11 +92,17 @@
 
 度量方法：
 
-** M = 1/ \(1+MTTR\)**
+** M = 1/ \(1+MTTR\)**
 
 ---
 
 #### 验收测试的基本方法
+
+* Benchmark Test\(基准测试\)
+* Pilot Test \(试验性测试\)
+* alpha Test 属于内部测试\(即我们常说的内测\)
+* beta Test 属于给用户进行的测试（即我们常说的beta版\)
+* Parallel Test 
 
 
 
