@@ -46,7 +46,7 @@
 |  | 质量测试 | Reliability, Maintainability, Availability |
 |  | 恢复测试 | 错误或数据丢失的反应 |
 |  | 维护测试 | 诊断工具 |
-| Documentation Test | 文档测试 | All document compliance |
+| Documentation Test | 文档测试 | All document compliance |
 | Human Factor Test | 人为因素测试 | User Interfaces |
 
 \(安装环境\) \|  
