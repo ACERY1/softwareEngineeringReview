@@ -2,7 +2,7 @@
 
 #### 设计的定义：
 
-**Design is the creative process of transforming the problem into a solution, the description of the solution is call the DESIGN.  
+**Design is the creative process of transforming the problem into a solution, the description of the solution is call the DESIGN.    
 **
 
 设计的创意过程是将问题转化为一个解决方案,对解决方案的描述称为设计。
@@ -19,9 +19,7 @@
 * **连接件**：可以是过程调用，管道，远程调用等，用于表示构建之间的相互作用。
 * **构件**：可以是一组代码，如程序模块，也可以是一个独立运行的程序，如数据库服务器。
 
-#### 体系结构风格和策略（Architecture Styles and Strategies
-
-）：
+#### 体系结构风格和策略（Architecture Styles and Strategies）：
 
 ![](/assets/屏幕快照 2017-06-22 下午3.57.05.png)
 
@@ -79,6 +77,7 @@
 * 逻辑内聚
 
 * 时态内聚
+
 * 过程内聚
 * 通信内聚
 * 顺序内聚

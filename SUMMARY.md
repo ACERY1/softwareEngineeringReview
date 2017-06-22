@@ -7,4 +7,5 @@
 * [第四章：需求分析](di-si-zhang-ff1a-xu-qiu-fen-xi.md)
 * [第五章：系统设计](di-wu-zhang-ff1a-xi-tong-she-ji.md)
 * [第七章：软件实现](di-qi-zhang-ff1a-ruan-jian-shi-xian.md)
+* [第八章：单元测试](di-ba-zhang-ff1a-dan-yuan-ce-shi.md)
 

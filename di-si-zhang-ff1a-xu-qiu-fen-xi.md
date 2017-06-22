@@ -31,8 +31,6 @@
 
 ![](/assets/er.jpg)
 
-
-
 ![](/assets/屏幕快照 2017-06-22 上午11.04.01.png)
 
 * Function Modeling\(功能建模\)
@@ -60,7 +58,7 @@ DFD（data-flow diagram\)还有另一补充：Decision Table\(Tree）（决策�
 > 大体上可分为两种，区分条件是文档的针对人群:1.用户 2. 开发者
 
 * Requirements Definition Document（需求定义文档\) ------------------------ For Customer
-* Requirements Specification Document   \(需求规范文档\) -------------------- For Developer
+* Requirements Specification Document\(需求规范文档\) -------------------- For Developer
 
 #### **需求验证和确认：**
 
@@ -74,13 +72,13 @@ DFD（data-flow diagram\)还有另一补充：Decision Table\(Tree）（决策�
 
 作用：
 
-> Verification ensures that we build the system right, whereas validation ensures that we build the right system.
+> Verification ensures that we build the system right,
+
+whereas validation ensures that we build the right system.
 
 确认确保我们构建系统,而验证确保我们建立正确的系统。
 
 > 个人认为Validation是为了验证是否迎合客户的需求，Verfication是为了保证功能能跑起来。
-
-
 
 
 
