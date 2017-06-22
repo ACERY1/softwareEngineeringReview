@@ -102,7 +102,7 @@
 * Pilot Test \(试验性测试\)
 * alpha Test 属于内部测试\(即我们常说的内测\)
 * beta Test 属于给用户进行的测试（即我们常说的beta版\)
-* Parallel Test 
+* Parallel Test\(并行测试\)
 
 
 
