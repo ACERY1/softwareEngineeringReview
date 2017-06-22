@@ -27,15 +27,60 @@
 
 * Data Modeling\(数据建模\)
 
-> 应用：Entity-Relationship Diagram （实体-关系图\)
+> 应用：**Entity-Relationship Diagram** （实体-关系图\)
+
+![](/assets/er.jpg)
+
+
+
+![](/assets/屏幕快照 2017-06-22 上午11.04.01.png)
 
 * Function Modeling\(功能建模\)
 
-> 应用：Data-Flow Diagrams \(数据流图\)
+> 应用：**Data-Flow Diagrams** \(数据流图\)
+
+![](/assets/屏幕快照 2017-06-22 上午11.05.20.png)![](/assets/屏幕快照 2017-06-22 上午11.05.28.png)
+
+DFD（data-flow diagram\)还有另一补充：Decision Table\(Tree）（决策表或决策树\)
 
 * Behavior Modeling\(行为建模\)
 
 > 应用: State Machine（状态机\)
 
-需求文档：
+![](/assets/屏幕快照 2017-06-22 上午11.09.43.png)![](/assets/屏幕快照 2017-06-22 上午11.09.51.png)
+
+**建模核心思想\(敲黑板\): Top-Down,Refine by Step （自顶向下，逐步求精\)**
+
+例图：
+
+![](/assets/屏幕快照 2017-06-22 上午11.08.39.png)
+
+#### 需求文档：
+
+> 大体上可分为两种，区分条件是文档的针对人群:1.用户 2. 开发者
+
+* Requirements Definition Document（需求定义文档\) ------------------------ For Customer
+* Requirements Specification Document   \(需求规范文档\) -------------------- For Developer
+
+#### **需求验证和确认：**
+
+> In requirements validation, we check that our requirements definition   accurately reflects the customer's needs.
+
+在需求验证,我们检查我们的需求定义为了准确地反映客户的需求。
+
+> In verification, we check that one document or artifact conforms to  another.
+
+在确认环节，我们会一个一个确认文档或组件
+
+作用：
+
+> Verification ensures that we build the system right, whereas validation ensures that we build the right system.
+
+确认确保我们构建系统,而验证确保我们建立正确的系统。
+
+> 个人认为Validation是为了验证是否迎合客户的需求，Verfication是为了保证功能能跑起来。
+
+
+
+
 
