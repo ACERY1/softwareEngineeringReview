@@ -10,8 +10,8 @@
 | :--- | :--- |
 | Head Comment Block | 头部注释 |
 | Other Program Comment | 其余程序注释 |
-|  Meaningful Variable Names and Statement Labels | 变量和语句标签必须有意义 |
-| Formatting to Enhance Understanding | 良好的缩进便于更好理解代码 |
+| Meaningful Variable Names and Statement Labels | 变量和语句标签必须有意义 |
+| Formatting to Enhance Understanding | 良好的缩进便于更好理解代码 |
 | Documenting Data | 将数据进行文档化 |
 
 * **External Documentation 外部文档**
