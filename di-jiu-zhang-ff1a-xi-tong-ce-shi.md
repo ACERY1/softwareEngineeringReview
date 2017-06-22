@@ -49,22 +49,29 @@
 | Documentation Test | 文档测试 | All document compliance |
 | Human Factor Test | 人为因素测试 | User Interfaces |
 
-\(安装环境\) \|  
-\| Quality Test  
- \| 质量测试 \| Reliability, Maintainability, Availability  
- \|  
-\| Recovery Test  
- \| 恢复测试 \| 错误或数据丢失的反应 \|  
-\| Maintenance  Test  
- \| 维护测试 \| 诊断工具 \|  
-\| Documentation Test  
- \| 文档测试 \| All document compliance  
- \|  
-\| Human Factor Test  
- \| 人为因素测试 \| User Interfaces  
- \|
+
 
 #### 可靠性、可用性、可维护性的定义及度量方法
+
+> Reliability, Availability, Maintainability
+
+* Reliability 可靠性
+
+> The probability that a system will operate without failure   under given conditions for a given time interval.
+>
+> 在给定条件下对于一个给定的时间间隔，系统操作没有失败的概率。
+
+* Availability 可用性
+
+> The probability that a system is operating successfully according to specification at a given point of time.
+>
+> 根据规范，在给定的时间点系统操作成功的概率。
+
+* Maintainability 可维护性
+
+> The probability that , for a given condition of use, a maintenance activity can be carried out within a stated time interval and using stated procedures and resources.
+>
+> 在给定条件下，维护活动能够在规定的时间间隔和使用所述过程和资源的概率
 
 #### 验收测试的基本方法
 
