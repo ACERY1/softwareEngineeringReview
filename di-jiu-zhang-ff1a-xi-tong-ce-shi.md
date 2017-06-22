@@ -43,11 +43,11 @@
 |  | 安全性测试 | 安全性要求 |
 |  | 计时测试 | 执行函数的用户响应时间 |
 |  | 环境测试 | Installation Site |
-|  | 质量测试 |  |
-|  | 恢复测试 |  |
-|  | 维护测试 |  |
-|  | 文档测试 |  |
-|  | 人为因素测试 |  |
+|  | 质量测试 | Reliability, Maintainability, Availability |
+|  | 恢复测试 | 错误或数据丢失的反应 |
+|  | 维护测试 | 诊断工具 |
+|  | 文档测试 | All document compliance |
+|  | 人为因素测试 | User Interfaces |
 
 \(安装环境\) \|  
 \| Quality Test  
