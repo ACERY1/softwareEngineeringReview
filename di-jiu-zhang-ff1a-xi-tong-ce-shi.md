@@ -37,17 +37,27 @@
 | :--- | :--- | :--- |
 | Stress Test | 压力测试 | 处理指定数量的设备和用户 |
 | Volume Test | 容量测试 | 处理栈/队列观察是否能容纳所有数据 |
-| Configuration  Test | 配置测试 | 多个用户 |
-| Compatibility  Test | 兼容性测试 | 与大型数据库进行通信 |
-| Regression  Test | 回归测试 | 替代已存在的系统 |
-| Security  Test | 安全性测试 | 安全性要求 |
-| Timing  Test | 计时测试 | 执行函数的用户响应时间 |
-| Environment  Test | 环境测试 | Installation Site\(安装环境\) |
-| Quality Test | 质量测试 | Reliability, Maintainability, Availability |
-| Recovery Test | 恢复测试 | 错误或数据丢失的反应 |
-| Maintenance  Test | 维护测试 | 诊断工具 |
-| Documentation Test | 文档测试 | All document compliance |
-| Human Factor Test | 人为因素测试 | User Interfaces |
+|  | 配置测试 | 多个用户 |
+|  | 兼容性测试 | 与大型数据库进行通信 |
+|  | 回归测试 | 替代已存在的系统 |
+|  | 安全性测试 | 安全性要求 |
+|  | 计时测试 | 执行函数的用户响应时间 |
+|  | 环境测试 | Installation Site |
+
+\(安装环境\) \|  
+\| Quality Test  
+ \| 质量测试 \| Reliability, Maintainability, Availability  
+ \|  
+\| Recovery Test  
+ \| 恢复测试 \| 错误或数据丢失的反应 \|  
+\| Maintenance  Test  
+ \| 维护测试 \| 诊断工具 \|  
+\| Documentation Test  
+ \| 文档测试 \| All document compliance  
+ \|  
+\| Human Factor Test  
+ \| 人为因素测试 \| User Interfaces  
+ \|
 
 #### 可靠性、可用性、可维护性的定义及度量方法
 
