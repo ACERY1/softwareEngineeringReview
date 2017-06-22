@@ -49,15 +49,14 @@
 | Documentation Test | 文档测试 | All document compliance |
 | Human Factor Test | 人为因素测试 | User Interfaces |
 
-
-
 #### 可靠性、可用性、可维护性的定义及度量方法
 
 > Reliability, Availability, Maintainability
 
 * Reliability 可靠性
 
-> The probability that a system will operate without failure   under given conditions for a given time interval.
+> The probability that a system will operate without failure   
+>   under given conditions for a given time interval.
 >
 > 在给定条件下对于一个给定的时间间隔，系统操作没有失败的概率。
 
@@ -71,7 +70,7 @@
 
 > The probability that , for a given condition of use, a maintenance activity can be carried out within a stated time interval and using stated procedures and resources.
 >
-> 在给定条件下，维护活动能够在规定的时间间隔和使用所述过程和资源的概率
+> 在给定条件下，维护活动能够在规定的时间间隔和使用所述过程和资源的概率。
 
 #### 验收测试的基本方法
 
