@@ -26,10 +26,16 @@
 > 即需要进行需求建模
 
 * Data Modeling\(数据建模\)
+
+> 应用：Entity-Relationship Diagram （实体-关系图\)
+
 * Function Modeling\(功能建模\)
+
+> 应用：Data-Flow Diagrams \(数据流图\)
+
 * Behavior Modeling\(行为建模\)
 
-
+> 应用: State Machine（状态机\)
 
 需求文档：
 
