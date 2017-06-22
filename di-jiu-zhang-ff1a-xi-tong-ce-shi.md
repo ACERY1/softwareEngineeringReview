@@ -53,12 +53,24 @@
 
 > Reliability, Availability, Maintainability
 
+* MTTF: Mean Time To Failure 平均失效时间
+* MTTR: Mean Time To Repair 平均修复时间
+* MTBF: Mean Time Between Failure  平均故障间隔时间
+
+---
+
 * Reliability 可靠性
 
-> The probability that a system will operate without failure   
+> The probability that a system will operate without failure  
 >   under given conditions for a given time interval.
 >
 > 在给定条件下对于一个给定的时间间隔，系统操作没有失败的概率。
+
+度量方法：
+
+** R = MTTF/\(1+MTTF\)``**
+
+---
 
 * Availability 可用性
 
@@ -66,11 +78,23 @@
 >
 > 根据规范，在给定的时间点系统操作成功的概率。
 
+度量方法：
+
+** A = MTBF/\(1+MTBF\)**
+
+---
+
 * Maintainability 可维护性
 
 > The probability that , for a given condition of use, a maintenance activity can be carried out within a stated time interval and using stated procedures and resources.
 >
 > 在给定条件下，维护活动能够在规定的时间间隔和使用所述过程和资源的概率。
+
+度量方法：
+
+** M = 1/ \(1+MTTR\)**
+
+---
 
 #### 验收测试的基本方法
 
