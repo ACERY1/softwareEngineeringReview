@@ -43,9 +43,9 @@
 |  | 安全性测试 | 安全性要求 |
 |  | 计时测试 | 执行函数的用户响应时间 |
 |  | 环境测试 | Installation Site |
-|  | 质量测试 | Reliability, Maintainability, Availability |
-|  | 恢复测试 | 错误或数据丢失的反应 |
-|  | 维护测试 | 诊断工具 |
+| Quality Test | 质量测试 | Reliability, Maintainability, Availability |
+| Recovery Test | 恢复测试 | 错误或数据丢失的反应 |
+| Maintenance Test | 维护测试 | 诊断工具 |
 | Documentation Test | 文档测试 | All document compliance |
 | Human Factor Test | 人为因素测试 | User Interfaces |
 
