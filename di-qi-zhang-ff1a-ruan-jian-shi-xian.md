@@ -4,6 +4,10 @@
 
 ![](/assets/屏幕快照 2017-06-22 下午5.17.03.png)
 
+* National Standards
+* Standards For You
+* Standards For Others
+
 #### **文档化方法：**
 
 * **Internal Documentation 内部文档**
@@ -27,6 +31,4 @@
 #### 编程过程：
 
 ![](/assets/屏幕快照 2017-06-22 下午5.16.04.png)
-
-
 

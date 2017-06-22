@@ -38,5 +38,7 @@
 Slack Time = Available Time – Real Time
 ```
 
+> 注释： 就目前做的题来说，如果能直接推出关键路径先算出关键路径，然后再去找最早开始时间和最迟开始时间，通过最迟开始时间和最早开始时间之差也能获得slack time/float time 。如果不行，在按照原英文书第89页~90页的方法，通过最早开始时间推出FinishTime,从而去算最晚开始时间，进而得到slack time,记slack time =0的活动点连线为关键路径。
+
 
 
