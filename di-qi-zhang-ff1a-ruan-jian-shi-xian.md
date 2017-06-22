@@ -1,8 +1,10 @@
 # 第七章：软件实现
 
-标准文档
+#### 文档的标准：
 
-**文档化方法：**
+![](/assets/屏幕快照 2017-06-22 下午5.17.03.png)
+
+#### **文档化方法：**
 
 * **Internal Documentation 内部文档**
 
@@ -21,6 +23,10 @@
 | Describing The Problem | 将问题描述清楚 |
 | Describing The Algorithm | 描述算法 |
 | Describing The Data | 描述数据 |
+
+#### 编程过程：
+
+![](/assets/屏幕快照 2017-06-22 下午5.16.04.png)
 
 
 
