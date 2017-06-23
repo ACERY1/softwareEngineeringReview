@@ -2,7 +2,7 @@
 
 #### 文档的标准：
 
-![](/assets/屏幕快照 2017-06-22 下午5.17.03.png)
+![](/assets/t16.png)
 
 * National Standards
 * Standards For You
@@ -30,5 +30,5 @@
 
 #### 编程过程：
 
-![](/assets/屏幕快照 2017-06-22 下午5.16.04.png)
+![](/assets/t17.png)
 
