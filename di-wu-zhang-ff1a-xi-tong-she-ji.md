@@ -2,7 +2,7 @@
 
 #### 设计的定义：
 
-**Design is the creative process of transforming the problem into a solution, the description of the solution is call the DESIGN.      
+**Design is the creative process of transforming the problem into a solution, the description of the solution is call the DESIGN.        
 **
 
 设计的创意过程是将问题转化为一个解决方案,对解决方案的描述称为设计。
@@ -21,35 +21,35 @@
 
 #### 体系结构风格和策略（Architecture Styles and Strategies）：
 
-![](/assets/屏幕快照 2017-06-22 下午3.57.05.png)
+![](/assets/t7.png)
 
 * **Piper-and-Filter（管道过滤器\)**
 
-![](/assets/屏幕快照 2017-06-22 下午4.01.08.png)
+![](/assets/t8.png)
 
 * **Client-Server\(客户端-服务端\)**
 
-![](/assets/屏幕快照 2017-06-22 下午4.01.34.png)
+![](/assets/t9.png)
 
 * **Peer-to-Peer\(对等\)**
 
-![](/assets/屏幕快照 2017-06-22 下午4.02.02.png)
+![](/assets/t10.png)
 
 * **Publish-Subscribe\(发布-订阅\) 也叫公布-调用**
 
-![](/assets/屏幕快照 2017-06-22 下午4.02.56.png)
+![](/assets/t11.png)
 
 * **Repositories\(信息库\)**
 
-![](/assets/屏幕快照 2017-06-22 下午4.03.58.png)
+![](/assets/t12.png)
 
 * **Laying\(分层\)**
 
-![](/assets/屏幕快照 2017-06-22 下午4.04.32.png)
+![](/assets/t13.png)
 
 * **Combination（结合）**
 
-![](/assets/屏幕快照 2017-06-22 下午4.07.00.png)
+![](/assets/t14.png)
 
 #### 设计特性：
 
@@ -57,7 +57,7 @@
 
 **解耦性：**
 
-![](/assets/屏幕快照 2017-06-22 下午4.21.15.png)
+![](/assets/t15.png)
 
 > 自上而下的将大问题分解成若干个子问题
 
@@ -81,10 +81,9 @@
 * 过程内聚
 
 * 通信内聚
+
 * 顺序内聚
 * 功能内聚
 
 ![](/assets/屏幕快照 2017-06-22 下午7.00.43.png)
-
-
 
