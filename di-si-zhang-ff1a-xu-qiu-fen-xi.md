@@ -31,13 +31,15 @@
 
 ![](/assets/er.jpg)
 
-![](/assets/屏幕快照 2017-06-22 上午11.04.01.png)
+![](/assets/t1.png)
 
 * Function Modeling\(功能建模\)
 
 > 应用：**Data-Flow Diagrams** \(数据流图\)
 
-![](/assets/屏幕快照 2017-06-22 上午11.05.20.png)![](/assets/屏幕快照 2017-06-22 上午11.05.28.png)
+![](/assets/t2.png)
+
+![](/assets/t3.png)
 
 DFD（data-flow diagram\)还有另一补充：Decision Table\(Tree）（决策表或决策树\)
 
