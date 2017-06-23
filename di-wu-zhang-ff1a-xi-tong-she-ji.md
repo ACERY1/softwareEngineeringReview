@@ -2,7 +2,7 @@
 
 #### 设计的定义：
 
-**Design is the creative process of transforming the problem into a solution, the description of the solution is call the DESIGN.        
+**Design is the creative process of transforming the problem into a solution, the description of the solution is call the DESIGN.          
 **
 
 设计的创意过程是将问题转化为一个解决方案,对解决方案的描述称为设计。
@@ -83,7 +83,8 @@
 * 通信内聚
 
 * 顺序内聚
+
 * 功能内聚
 
-![](/assets/屏幕快照 2017-06-22 下午7.00.43.png)
+![](/assets/t18.png)
 
